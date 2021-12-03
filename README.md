@@ -1,6 +1,6 @@
 # MySqlToPythonMenu
 
-This python program connects to a COMPANY Databse with tables including EMPLOYEES, DEPARTMENTS, etc.  It allows for users with no MySQL knowledge to modify a database.  When run, it generates a menu to allow users to do the following functions:
+This python program connects to a COMPANY Databse with tables including EMPLOYEES, DEPARTMENTS, DEPENDENTS, DEPT_LOCATIONS, WORKS_ON, and PROJECTS.  It allows for users with no MySQL knowledge to modify a database.  When run, it generates a menu to allow users to do the following functions:
   1. Add new employee
   2. View existing employee
   3. Modify employee
