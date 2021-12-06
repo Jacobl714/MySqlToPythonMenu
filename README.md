@@ -13,5 +13,7 @@ This python program connects to a COMPANY Databse with tables including EMPLOYEE
   10. Add department location
   11. Remove department location
 
-This was a fun project that allowed me to mess around with both python and MySQL.
+It also implements locks such that 2 users cannot both update/remove data at the same time to prevent errors.  
+
+This was a fun project that allowed me to mess around with python, locks, and MySQL.
    <img width="308" alt="Screen Shot 2021-12-03 at 3 21 04 PM" src="https://user-images.githubusercontent.com/44173073/144667815-4ed0334e-0cbb-46fe-927e-8270b171a5bc.png">
